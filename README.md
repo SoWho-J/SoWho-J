@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=FF8C00" width="100%" alt="Orange Wave" />
+
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/seohu-header.gif" width="100%" alt="Seohu's GitHub Header" />
 
 
