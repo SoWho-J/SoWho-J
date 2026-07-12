@@ -36,7 +36,7 @@ I'm also learning additional languages to connect with people from different cul
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
 
 # 👨🏻‍💻 Tech Stack
 
@@ -76,7 +76,7 @@ I'm also learning additional languages to connect with people from different cul
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
 
 <div align="center">
 
