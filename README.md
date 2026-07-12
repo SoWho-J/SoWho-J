@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=FF8C00"/>
+<hr style="border:1px solid #FF8C00;">
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/seohu-header.gif" width="100%" alt="Naruto Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=FF8C00"/>
+<hr style="border:1px solid #FF8C00;">
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Sup!+My+name+is+Seohu+Jang"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Sup!+My+name+is+Seohu+Jang"/>
 
 ### Or you can call me **Madison** *(a.k.a. Maddie)*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
-
-<br>
+<hr style="border:1px solid #FF8C00; width:100%;">
 
 ### *Developer • Designer • Problem Solver*
 
@@ -36,7 +34,9 @@ I'm also learning additional languages to connect with people from different cul
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
+---
+
+<hr style="border:1px solid #FF8C00; width:100%;">
 
 # 👨🏻‍💻 Tech Stack
 
@@ -76,7 +76,7 @@ I'm also learning additional languages to connect with people from different cul
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
+<hr style="border:1px solid #FF8C00; width:100%;">
 
 <div align="center">
 
