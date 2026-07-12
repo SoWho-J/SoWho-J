@@ -14,7 +14,7 @@
 
 <br>
 
-### *Developer • Designer • Problem Solver*
+### *Developer • Designer • Persistent Learner*
 
 I'm passionate about both **design** and **development**.
 
