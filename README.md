@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=FF8C00"/>
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/seohu-header.gif" width="100%" alt="Naruto Header"/>
 
-<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=FF8C00"/>
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Sup!+My+name+is+Seohu+Jang"/>
@@ -36,7 +35,7 @@ I'm also learning additional languages to connect with people from different cul
 
 </div>
 
----
+
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
