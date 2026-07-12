@@ -1,18 +1,20 @@
 <div align="center">
 
-<hr style="border:1px solid #FF8C00;">
+<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/seohu-header.gif" width="100%" alt="Naruto Header"/>
 
-<hr style="border:1px solid #FF8C00;">
+<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Sup!+My+name+is+Seohu+Jang"/>
 
 ### Or you can call me **Madison** *(a.k.a. Maddie)*
 
-<hr style="border:1px solid #FF8C00; width:100%;">
+<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
+
+<br>
 
 ### *Developer • Designer • Problem Solver*
 
@@ -26,7 +28,7 @@ I'm also learning additional languages to connect with people from different cul
 
 <br>
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,react,oracle"/>
@@ -36,7 +38,7 @@ I'm also learning additional languages to connect with people from different cul
 
 ---
 
-<hr style="border:1px solid #FF8C00; width:100%;">
+<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
 # 👨🏻‍💻 Tech Stack
 
@@ -76,7 +78,7 @@ I'm also learning additional languages to connect with people from different cul
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion"/>
 </p>
 
-<hr style="border:1px solid #FF8C00; width:100%;">
+<img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
 <div align="center">
 
