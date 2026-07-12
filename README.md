@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=18&color=FF8C00"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF8C00"/>
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/seohu-header.gif" width="100%" alt="Naruto Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=18&color=FF8C00"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF8C00"/>
 
 <br><br>
 
@@ -12,10 +12,9 @@
 
 ### Or you can call me **Madison** *(a.k.a. Maddie)*
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF8C00"/>
 
-
-</div>
+<br>
 
 ### *Developer • Designer • Problem Solver*
 
@@ -77,7 +76,7 @@ I'm also learning additional languages to connect with people from different cul
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion"/>
 </p>
 
-
+---
 
 <div align="center">
 
