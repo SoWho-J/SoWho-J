@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1200"
+    height="4"
+    viewBox="0 0 1200 4"
+    preserveAspectRatio="none">
+
+    <rect
+        x="0"
+        y="0"
+        width="1200"
+        height="4"
+        rx="2"
+        ry="2"
+        fill="#FF8C00"/>
+
+</svg>
