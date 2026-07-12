@@ -64,27 +64,3 @@ Being fluent in both Korean and English allows me to collaborate without languag
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
-
----
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SoWho-J/SoWho-J/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SoWho-J/SoWho-J/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF8C00" width="100%" alt="Orange Wave Footer" />
