@@ -6,13 +6,20 @@
     viewBox="0 0 1200 4"
     preserveAspectRatio="none">
 
+    <defs>
+        <linearGradient id="narutoLine" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FF8C00"/>
+            <stop offset="50%" stop-color="#FFA500"/>
+            <stop offset="100%" stop-color="#FFD54F"/>
+        </linearGradient>
+    </defs>
+
     <rect
         x="0"
         y="0"
         width="1200"
         height="4"
         rx="2"
-        ry="2"
-        fill="#FF8C00"/>
+        fill="url(#narutoLine)"/>
 
 </svg>
