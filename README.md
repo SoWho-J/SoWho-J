@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Sup!+My+name+is+Seohu+Jang"/>
 
-### Or you can call me **Madison** *(a.k.a. Maddie)*
+<img src="https://capsule-render.vercel.app/api?type=transparent&animation=fadeIn&fontColor=FF8C00&fontSize=24&fontAlignY=55&height=50&text=Or%20you%20can%20call%20me%20Madison%20(a.k.a.%20Maddie)"/>
 
 <img src="https://raw.githubusercontent.com/SoWho-J/SoWho-J/main/assets/orange-line.svg" width="100%"/>
 
