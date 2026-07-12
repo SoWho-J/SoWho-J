@@ -8,9 +8,10 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Seohu+Jang"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=SUP!%2C+my+name+is+Seohu+Jang"/>
 
 ### Or you can call me **Madison** *(a.k.a. Maddie)*
+
 
 ### *Developer • Designer • Problem Solver*
 
@@ -72,7 +73,7 @@ I'm also learning additional languages to connect with people from different cul
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion"/>
 </p>
 
----
+
 
 <div align="center">
 
